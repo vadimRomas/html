@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+    color: tomato;
+}
+.gif{
+   display: block;
+   margin: auto;
+   width: 349px;
+   height: 350px;
+}
+body{
+    background-color: yellowgreen;
+}
+br{
+    color: black;
+}
+h2{
+    text-align: center;
+}
